@@ -1,1 +1,1 @@
-creat symbolic link
+use of wild card
