@@ -1,1 +1,1 @@
-delete a non-empty directory
+change to previous directory
