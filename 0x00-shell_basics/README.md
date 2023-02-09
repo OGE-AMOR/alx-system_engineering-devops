@@ -1,1 +1,1 @@
-display content in long format
+creating a directory
